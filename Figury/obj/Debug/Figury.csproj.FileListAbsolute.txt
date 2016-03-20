@@ -1,0 +1,6 @@
+c:\users\divix\documents\visual studio 2015\Projects\Figury\Figury\bin\Debug\Figury.exe.config
+c:\users\divix\documents\visual studio 2015\Projects\Figury\Figury\obj\Debug\Figury.csprojResolveAssemblyReference.cache
+c:\users\divix\documents\visual studio 2015\Projects\Figury\Figury\bin\Debug\Figury.exe
+c:\users\divix\documents\visual studio 2015\Projects\Figury\Figury\bin\Debug\Figury.pdb
+c:\users\divix\documents\visual studio 2015\Projects\Figury\Figury\obj\Debug\Figury.exe
+c:\users\divix\documents\visual studio 2015\Projects\Figury\Figury\obj\Debug\Figury.pdb
